@@ -4,7 +4,7 @@ In these years I had the chance to get know the Agile methodology and improve my
 I am working on a research using Gem5 regarding Linux Operative Systems.
 
 
-- 🔭 I’m currently working on Drawing Environment for Advanced Software Engineer module.
+- 🔭 I’m currently working on a Chrome Password Manager.
 - 🌱 I’m currently learning <img width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /> / <img width= "25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
  / <img width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg" />
           
