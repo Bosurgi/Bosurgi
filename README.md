@@ -7,7 +7,7 @@
 
 - 🔭 Checkout my LinkedIn profile at [LinkedIn](https://www.linkedin.com/in/andrea-lafaucideleo/)
 - 📫 You can reach me at [andrea.lafauci92@gmail.com](mailto:andrea.lafauci92@gmail.com)
-- 🎓 I am currently learning Kotlin, .NET, C++, and AWS
+- 🎓 I am currently working on [UniTrack](https://github.com/UniTrackApp) and [ChainTracker Discord Bot](https://github.com/Bosurgi/ChainTracker)
 - 🧩 I also like solving challenges from LeetCode
 
 <!-- TECH STACK LOGOS -->
