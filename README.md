@@ -1,7 +1,9 @@
 <h1 align="center"> Hello, I am Andrea 🖐🏻 </h1>
 
 <!-- ABOUT ME -->
-<p align="center"> I am currently studying MEng in Computer Science based in UK </p>
+<p align="center"> 🎓 I've graduated in Computer Science at Leeds Beckett <br>
+💻 I am a Software Engineer at Greenbelt Group. 
+</p>
 
 <hr>
 
