@@ -9,7 +9,8 @@
 
 - 🔭 Checkout my LinkedIn profile at [LinkedIn](https://www.linkedin.com/in/andrea-lafaucideleo/)
 - 📫 You can reach me at [andrea.lafauci92@gmail.com](mailto:andrea.lafauci92@gmail.com)
-- 🎓 I am currently working on [UniTrack](https://github.com/UniTrackApp) and [EmoPal](https://github.com/Bosurgi/EmoPal)
+- 💼 I am currently working on a React Native Mobile Application.
+- 💻 Some of my favourite projects I worked on are [UniTrack](https://github.com/UniTrackApp) and [EmoPal](https://github.com/Bosurgi/EmoPal)
 - 🧩 I also like solving challenges from LeetCode
 
 <!-- TECH STACK LOGOS -->
